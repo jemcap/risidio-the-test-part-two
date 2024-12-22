@@ -61,4 +61,3 @@ npm run dev
 # or
 yarn dev
 ```
-# risidio-the-test-part-two-
